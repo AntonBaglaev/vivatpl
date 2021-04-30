@@ -1,0 +1,59 @@
+.main {
+    background-color: #000;
+    height: 40px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.container{
+    position: relative;
+    z-index: 2;
+    top: -40px;
+}
+
+.header-wrap {
+    position: relative;
+}
+
+.headerLine {
+    min-width: 1210px;
+    height: 40px;
+    
+}    
+
+
+.dropup, .dropright, .dropdown, .dropleft {
+    float: left;
+}
+.btn-dark {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+  }
+  
+.btn-dark:hover {
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+}    
+
+.tel {
+    float: left;
+    margin-left: 10px;
+    padding-top: 8px;
+    color: #fff;
+}
+
+.bg-dark {
+    background-color: #000 !important;
+}    
+
+    
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.header-info{
+    padding-top: 10px;
+}
